@@ -220,7 +220,7 @@ const Checkbox = styled("input", {
   height: "30px",
   width: "30px",
   border: "0",
-  borderRadius: "50px",
+  // borderRadius: "50px",
   cursor: "pointer",
   marginRight: "8px",
   outline: "none",
